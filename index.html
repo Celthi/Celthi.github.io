@@ -4,28 +4,62 @@
     <title>Create, instead of consuming </title>
     <link rel="stylesheet" href="styles/main.css"></link>
     <img src=""></img>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+
     <h1>Create, instead of consuming <a href="https://github.com/Celthi"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub"></a>
 </h1>
     
   </head>
   <body>
-  <header>
-  
+    <header>
     <nav>
+        <a href="CV_卢宪廷_东南大学"> 中文简历</a>
+        <a href="卢宪廷_EN"> CV_ENGLISH</a>
+    </nav>
     <h1>Education</h1>
-  
     <ul>
       <li>Undergraduate</li>
       <li id="idspecial">Graduate</li>
     </ul>
     <strong></strong>
 	</header>
+    <script type="text/javascript">
+        // comment goes here
+        /* this comment 
+           go to  */
+function buildList(list) {
+    var result = [];
+    for (var i = 0; i < list.length; i++) {
+        var item = 'item' + i;
+        result.push( function() {console.log(item + ' ' + list[i])} );
+    }
+    return result;
+}
+
+function testList() {
+    var fnlist = buildList([1,2,3]);
+    // Using j only to help prevent confusion -- could use i.
+    for (var j = 0; j < fnlist.length; j++) {
+        fnlist[j]();
+    }
+}
+testList();
+        document.write("hey now brown cow");
+    </script>
+
 	<div class="row">
 		<div class="col">col1</div>
 		<div class="col">col2</div>
 		<div class="col">col3</div>
 	</div>
     <p class="secondary"> dot find class</p>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   </body>
 </html>
 
