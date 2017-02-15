@@ -1,3 +1,4 @@
+more info [syntax](http://daringfireball.net/projects/markdown/syntax)
 An h1 header
 ============
 
@@ -155,4 +156,4 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
-From (Quick Markdown Example)[http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html]
+From [Quick Markdown Example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
