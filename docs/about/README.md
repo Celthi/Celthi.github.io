@@ -2,31 +2,27 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+head: 'Xianting Lu'
+info: 'Programmer/Blogger'
+interests: 'Programming and Movies'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/Celthi
 - title: linkedin
-  link: https://www.linkedin.com
-- title: instagram
-  link: https://www.instagram.com
+  link: https://www.linkedin.cn/incareer/in/%E5%AE%AA%E5%BB%B7-%E5%8D%A2-4513a6117
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:evan_l00[at]qq.com'
 actions:
 - text: Projects
   link: /projects/
 - text: Blog
-  link: https://github.com/mtobeiyf
-- text: CV
-  link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
+  link: https://www.zhihu.com/people/lan-tian-89
+
+footer: Made with ♥ Xianting Lu. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
 
 </AboutCard>
 

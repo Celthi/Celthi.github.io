@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Harry Potter",
-  description: "The description of the site.",
+  title: "Xianting Lu",
+  description: "Website about me, built with VuePress.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
   dest: "./dist",
@@ -11,8 +11,7 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "GitHub", link: "https://github.com/Celthi" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')

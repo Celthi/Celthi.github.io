@@ -2,33 +2,33 @@
 pageClass: projects-page
 ---
 
-# Work
+## Open Source Projects
 
-Here are some works of mine :books:
 
-## Projects
 
-<ProjectCard image="/projects/1.png">
+<ProjectCard hideBorder=true>
 
-  Harry P., Hermione G., *et al*
-  
-  **The Making of Harry Potter's Wand**
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  **[Rabot](https://github.com/Celthi/robot)**
+
+  A intelligence robot handle all the duplicates, tedious works for me, like record time sheet, triggering integration test, etc.
 
 </ProjectCard>
 
-## Publications
+<ProjectCard hideBorder=true>
 
-<ProjectCard>
+  **[Core Analyzer]((https://github.com/yanqi27/core_analyzer))**
+  Core maintainer
 
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  A proved powerful tool to debug memory issues. By parsing the memory image of a process's core dump file or its live address space, core analyzer is able to scan the target's heap data for memory corruption, search the whole address space for data object's references, or analyze memory pattern. It is thorough, labor-free, and insightful. 
 
-  [[Link](https://www.google.com)]
+</ProjectCard>
+
+
+<ProjectCard hideBorder=true>
+
+**[Melt Subtitles]((https://github.com/Celthi/meltSubtitles))**
+
+Translating unknown words in video subtitles. With it, you can learn English while watching movies/TV series.
 
 </ProjectCard>
 
