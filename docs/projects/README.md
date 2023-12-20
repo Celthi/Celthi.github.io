@@ -32,6 +32,15 @@ Translating unknown words in video subtitles. With it, you can learn English whi
 
 </ProjectCard>
 
+
+<ProjectCard>
+
+**[IEEE TitleAsPDFfileName]((https://greasyfork.org/zh-CN/scripts/27209-ieee-titleaspdffilename))**
+
+Do you feel it is frustrated to download a paper from IEEE? Because the paper downloaded is named with a bunch of numbers, and you have to copy and paste to rename the file name. This script add a "save as pdf" choice and when you click this, you will get a pdf file named with the paper title.
+
+</ProjectCard>
+
 <style lang="stylus">
 
 .projects-page

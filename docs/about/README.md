@@ -4,7 +4,7 @@ description: 'The biography and information about me.'
 avatar: /profile.jpg
 head: 'Xianting Lu'
 info: 'Programmer/Blogger'
-interests: 'Programming and Movies'
+# interests: 'Programming and Movies'
 socials:
 - title: github
   link: https://github.com/Celthi
