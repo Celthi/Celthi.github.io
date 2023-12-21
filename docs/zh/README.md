@@ -43,7 +43,7 @@ cv: https://raw.githubusercontent.com/Celthi/Celthi.github.io/master/Xianting%20
 ## 工作经历
 - [2023年2月 - 至今] 大语言模型/ChatGPT赋能数据分析、提示工程、GPT模型
   
-  - 设计和开发微策略基于OpenAI的AI可视化机器人，主要负责原型开发和架构设计、NodeJS微服务设计、 MSTR Chat Agent with Langchain、 Multiple Action工具等等.
+  - 设计和开发微策略基于OpenAI的AI可视化机器人，从原型开发到产品架构设计、NodeJS微服务设计、 MSTR Chat Agent with Langchain、 Multiple Action工具等等.
   
   - 微策略AI可视化机器人的重大更新和提升，如文本到可视化、SQL到可视化、提示词优化和多Agent多步骤策略等等
 
